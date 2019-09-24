@@ -37,7 +37,7 @@ $ sh data/train_ner.sh {conll|ontonotes}
 Please cite the following paper when using our code: 
 
 ```
-@InProceedings{ghaddar2018coling,
+@InProceedings{TODO,
   title={Contextualized Word Representations from Distant Supervision with and for NER}},
   author={Ghaddar, Abbas	and Langlais, Phillippe},
   TODO
