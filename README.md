@@ -1,4 +1,4 @@
-Contextualized Word Representations from Distant Supervisionwith and for NER
+Contextualized Word Representations from Distant Supervision with and for NER
 ================================================================
 NER with Wikipedia Distant Supervision Contextualized Embeddings
 This repository contains the source code for the NER system presented in the following research publication ([link](http://todo))
