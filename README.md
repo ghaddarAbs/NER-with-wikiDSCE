@@ -4,7 +4,7 @@ NER with Wikipedia Distant Supervision Contextualized Embeddings
 This repository contains the source code for the NER system presented in the following research publication ([link](http://todo))
 
     Abbas Ghaddar and Philippe Langlais 
-    Contextualized Word Representations from Distant Supervisionwith and for NER
+    Contextualized Word Representations from Distant Supervision with and for NER
     TODO
     
 ## Requirements
@@ -38,7 +38,7 @@ Please cite the following paper when using our code:
 
 ```
 @InProceedings{ghaddar2018coling,
-  title={Contextualized Word Representations from Distant Supervisionwith and for NER}},
+  title={Contextualized Word Representations from Distant Supervision with and for NER}},
   author={Ghaddar, Abbas	and Langlais, Phillippe},
   TODO
 }
