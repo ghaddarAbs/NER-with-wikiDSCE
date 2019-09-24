@@ -6,7 +6,8 @@ This repository contains the source code for the NER system presented in the fol
     Abbas Ghaddar and Philippe Langlais 
     Contextualized Word Representations from Distant Supervision with and for NER
     TODO
-    
+
+This code is based on the original [bert](https://github.com/google-research/bert) implementation
 ## Requirements
 
 * python 3.6
