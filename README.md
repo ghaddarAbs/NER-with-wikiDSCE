@@ -12,7 +12,7 @@ This repository contains the source code for the NER system presented in the fol
 * python 3.6
 * tensorflow>=1.13
 * pyhocon (for parsing the configurations)
-* fasttext == 0.8.3
+* fasttext==0.8.3
 
 ## Prepare the Data
 1. Follow instruction in /data in order to obtain the data.
