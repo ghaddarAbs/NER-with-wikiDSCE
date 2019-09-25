@@ -24,13 +24,15 @@ This code is based on the original [bert](https://github.com/google-research/ber
  
 ```
 $ python preprocess.py {conll|ontonotes}
-$ sh data/cache_emb.sh {conll|ontonotes}
+$ cd data
+$ sh cache_emb.sh {conll|ontonotes}
 ```
 
 ## Training
 Once the data preprocessing is completed, you can train and test a model with:
 ```
-$ sh data/train_ner.sh {conll|ontonotes}
+$ cd data
+$ sh train_ner.sh {conll|ontonotes}
 ```
 
 ## Citation
