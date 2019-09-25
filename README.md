@@ -18,7 +18,7 @@ This code is based on the original [bert](https://github.com/google-research/ber
 ## Prepare the Data
 1. Follow instruction in /data in order to obtain the data, and change the path of `data_dir` in the `experiments.config` file. 
 
-2. Change the `raw_path` variables for [conll](http://www.cnts.ua.ac.be/conll2003/ner/) and [ontonotes](http://conll.cemantix.org/2012/data.html) datasets in `experiments.config` file to `path/to/conll-2003` and `path/to/conll-2012/v4/data` respectively. For conll dataset please rename eng.train eng.testa eng.testb files to conll.train.txt conll.dev.txt conll.test.txt respectively. 
+2. Change the `raw_path` variables for [conll](http://www.cnts.ua.ac.be/conll2003/ner/) and [ontonotes](http://conll.cemantix.org/2012/data.html) datasets in `experiments.config` file to `path/to/conll-2003` and `path/to/conll-2012/v4/data` respectively. For conll dataset please rename eng.train eng.testa eng.testb files to conll.train.txt conll.dev.txt conll.test.txt respectively. Also, change `DATA_DIR` in `train_ner.sh` and `cache_emb.sh`.
 
 3. Run: 
  
