@@ -1,11 +1,11 @@
 Contextualized Word Representations from Distant Supervision with and for NER
 ================================================================
 NER with Wikipedia Distant Supervision Contextualized Embeddings
-This repository contains the source code for the NER system presented in the following research publication ([link](http://todo))
+This repository contains the source code for the NER system presented in the following research publication ([link](http://rali.iro.umontreal.ca/rali/sites/default/files/publis/D19-5513%5B1%5D.pdf))
 
     Abbas Ghaddar and Philippe Langlais 
     Contextualized Word Representations from Distant Supervision with and for NER
-    TODO
+    In Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019)
 
 This code is based on the original [bert](https://github.com/google-research/bert) implementation
 ## Requirements
@@ -40,10 +40,11 @@ $ sh train_ner.sh {conll|ontonotes}
 Please cite the following paper when using our code: 
 
 ```
-@InProceedings{TODO,
-  title={Contextualized Word Representations from Distant Supervision with and for NER}},
-  author={Ghaddar, Abbas	and Langlais, Phillippe},
-  TODO
+@inproceedings{ghaddar2019contextualized,
+  title={Contextualized Word Representations from Distant Supervision with and for NER},
+  author={Ghaddar, Abbas and Langlais, Philippe},
+  booktitle={Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019)},
+  pages={101--108},
+  year={2019}
 }
-
 ```
